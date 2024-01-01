@@ -1,1 +1,1 @@
-# 2024_Texture_Synthesis_with_Diffusion_Model
+# 2024 Texture Synthesis with Diffusion Model
