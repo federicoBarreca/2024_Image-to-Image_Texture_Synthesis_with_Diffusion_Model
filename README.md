@@ -1,1 +1,1 @@
-# 2024 Texture Synthesis with Diffusion Model
+# 2024 Image-to-Imgae Texture Synthesis with Diffusion Model
