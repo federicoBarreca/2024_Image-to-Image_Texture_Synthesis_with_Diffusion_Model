@@ -6,7 +6,7 @@ This is a conditional model that learns to generate and complete new textures fr
 ![title](./images/groundtruth_condition.jpg)
 ![title](./images/groundtruth.jpg)
 
-## Training results
+## Results
 The model was trained on different textures belonging both to different and same classes. The classes chosen are tatami, bricks and bark.
 One experiment of the project was the implementation of EMA model.
 
