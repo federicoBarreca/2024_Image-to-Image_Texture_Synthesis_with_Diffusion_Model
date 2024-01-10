@@ -5,7 +5,7 @@ This is a conditional model that learns to generate and complete new textures fr
 
 ![title](./images/groundtruth_condition.jpg)
 ![title](./images/groundtruth.jpg)
-<img src="./images/groundtruth_condition.jpg" width="48">
+<img src="./images/groundtruth_condition.jpg" width="80%">
 
 
 ## Results
