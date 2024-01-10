@@ -12,6 +12,8 @@ The model was trained on different textures belonging both to different and same
 One experiment of the project was the implementation of EMA model.
 
 ### Real textures
+<img src="./images/test_real_1.jpg" width="200%">
+
 ![title](./images/test_real_1.jpg)
 ![title](./images/test_real_2.jpg)
 ![title](./images/test_real_3.jpg)
